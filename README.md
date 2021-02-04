@@ -17,21 +17,6 @@ news_title = "NASA's Next Mars Mission to Investigate Interior of Red Planet"
 news_p = "Preparation of NASA's next spacecraft to Mars, InSight, has ramped up this summer, on course for launch next May from Vandenberg Air Force Base in central California -- the first interplanetary launch in history from America's West Coast."
 ```
 
-### JPL Mars Space Images - Featured Image
-
-* Visit the url for JPL Featured Space Image [here](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars).
-
-* Use splinter to navigate the site and find the image url for the current Featured Mars Image and assign the url string to a variable called `featured_image_url`.
-
-* Make sure to find the image url to the full size `.jpg` image.
-
-* Make sure to save a complete url string for this image.
-
-```python
-# Example:
-featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg'
-```
-
 ### Mars Facts
 
 * Visit the Mars Facts webpage [here](https://space-facts.com/mars/) and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
